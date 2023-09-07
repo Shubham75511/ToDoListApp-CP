@@ -24,10 +24,7 @@ body {
   font-family: 'Nanum Gothic Coding', cursive;
   text-decoration: underline;
 }
-/* .heading:hover {
-  color: whitesmoke;
-  cursor:pointer; 
-} */
+
 .heading2 {
   margin-top: 50px;
   flex-basis: 10%;
@@ -42,7 +39,6 @@ a {
 
 a:hover {
   color: #ff7f83;
-  text-decoration: none;
   cursor: pointer;
 }
 
@@ -67,8 +63,6 @@ a:hover {
   justify-content: center;
   align-items: center;
   width: 80%;
-  /* box-shadow: 5px 5px; */
-  /* gap: 0.76px; */
 }
 
 .top {
